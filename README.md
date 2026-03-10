@@ -1,6 +1,6 @@
 # ErrandGo Soroban Contract
 
-ErrandGo is a Soroban smart contract that powers escrow-based errands, fiat on-ramp/off-ramp settlement, reserve liquidity management, and automated commission distribution for the ErrandGo ecosystem.
+This is ErrandGo's escrow, errand management and payment contract. It powers ErrandGo's escrow-based errands, fiat on-ramp/off-ramp settlement, reserve liquidity management, payments and automated commission distribution for the ErrandGo ecosystem.
 
 The contract enables a marketplace where:
 
